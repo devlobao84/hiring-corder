@@ -1,0 +1,50 @@
+body {    
+
+     background-color: rgb(29, 28, 28);     
+     overflow: hidden;
+     
+}
+
+h1 {
+     font-family: 'Sorce Code Pro' , monospace;
+     font-size: 3em;
+     text-align: center;
+     color: white;
+     margin-top: 12%;
+}
+
+.input {
+     width: 50%;
+     margin: 10% 50% 5% 25%;
+}
+
+.input-list {
+     width: 65%;
+     margin-left: 15%;
+     
+}
+
+div {
+     margin-left: 32%;     
+     color: white;
+     font-style: italic;
+}
+
+
+.btn-primary {
+     background-color: rgb(216, 36, 90);
+     border: none;
+}
+
+.btn-primary:hover {
+     background-color: rgb(114, 36, 216);
+     border: none;
+}
+
+.monster {
+     width: 300px;
+     margin-bottom: 50%;
+   
+}
+
+
